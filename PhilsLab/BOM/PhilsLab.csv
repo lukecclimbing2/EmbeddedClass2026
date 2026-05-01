@@ -1,0 +1,18 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"Y1";"Crystal_SMD_0603-4Pin_6.0x3.5mm";1;"Crystal_GND24";;;
+2;"U2";"SOT-223-3_TabPin2";1;"AMS1117";;;
+3;"U1";"LQFP-48_7x7mm_P0.5mm";1;"STM32F103C8Tx";;;
+4;"SW1";"BatteryHolder_Keystone_590";1;"SW_SPDT";;;
+5;"R3";"R_0402_1005Metric";1;"1K5";;;
+6;"R2";"R_0402_1005Metric";1;"1k5";;;
+7;"R1";"R_0402_1005Metric";1;"10k";;;
+8;"J2";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04_Pin";;;
+9;"J1";"USB_Micro-B_Molex-105133-0031";1;"USB_B_Micro";;;
+10;"FB1";"L_0603_1608Metric";1;"120R";;;
+11;"D1";"LED_1206_3216Metric";1;"LED";;;
+12;"C13,C12";"C_0805_2012Metric";2;"22u";;;
+13;"C11,C10";"C_0805_2012Metric";2;"10p";;;
+14;"C9,C4,C3,C2,C1";"C_0805_2012Metric";5;"100n";;;
+15;"C8,C7";"C_0805_2012Metric";2;"1u";;;
+16;"C6";"C_0805_2012Metric";1;"10n";;;
+17;"C5";"C_0805_2012Metric";1;"10u";;;
